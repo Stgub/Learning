@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					19D68DAA1D99788B00A25CB6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = T4B85P4F7X;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T4B85P4F7X;
 				INFOPLIST_FILE = LearningToGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stevengraf.LearningToGit;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T4B85P4F7X;
 				INFOPLIST_FILE = LearningToGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stevengraf.LearningToGit;
